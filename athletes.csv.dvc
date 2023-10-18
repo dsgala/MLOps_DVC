@@ -1,5 +1,5 @@
 outs:
-- md5: 67d4ccf46a5b79f76bd10f01c6036640
-  size: 65011712
+- md5: cd64c1a3739e877d55c186bfd07542e1
+  size: 10442416
   hash: md5
   path: athletes.csv
